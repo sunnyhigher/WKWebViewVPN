@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SOCKS5VPN.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>buildNumber</key>
+			<string>1</string>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>00D250952D1FB6705E142FEDE62D53FC4915D418</string>
+				<key>dateExpires</key>
+				<string>2025/10/3</string>
+				<key>type</key>
+				<string>iOS Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>TF53X8SVJ2.app.ikun7636.test</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>TF53X8SVJ2</string>
+				<key>get-task-allow</key>
+				<false/>
+			</dict>
+			<key>name</key>
+			<string>SOCKS5VPN.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>5be91945-6377-45eb-9b35-c51b275fdc81</string>
+				<key>dateExpires</key>
+				<string>2025/10/3</string>
+				<key>name</key>
+				<string>adhoc 1108</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>TF53X8SVJ2</string>
+				<key>name</key>
+				<string>Doi Thi Cam Nhung</string>
+			</dict>
+			<key>versionNumber</key>
+			<string>1.0</string>
+		</dict>
+	</array>
+</dict>
+</plist>
